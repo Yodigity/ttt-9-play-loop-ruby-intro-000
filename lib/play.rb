@@ -42,7 +42,7 @@ def play(board)
     turn(board)
     move += 1
   end
-end
+
 
 
   end
